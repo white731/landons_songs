@@ -1,0 +1,35 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-west-2:686762199263:function:d4061a37-c61c-4afc-8d72-731e12f72eb7:Release_0"
+        },
+        "regions": {
+          "EU": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:eu-west-1:686762199263:function:d4061a37-c61c-4afc-8d72-731e12f72eb7:Release_0"
+            }
+          },
+          "NA": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-east-1:686762199263:function:d4061a37-c61c-4afc-8d72-731e12f72eb7:Release_0"
+            }
+          },
+          "FE": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-west-2:686762199263:function:d4061a37-c61c-4afc-8d72-731e12f72eb7:Release_0"
+            }
+          }
+        }
+      }
+    },
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "name": "my favorite songs"
+        }
+      }
+    }
+  }
+}
