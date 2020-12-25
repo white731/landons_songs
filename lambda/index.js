@@ -16,7 +16,7 @@ const STREAMS = [
     token: '1',
     url: 'https://treesourcesystems.com/audio/evermore.mp3',
     metadata: {
-      title: 'Stream One',
+      title: 'Evermore sung by Landon Whitesides',
       subtitle: 'A subtitle for stream one',
       art: {
         sources: [
